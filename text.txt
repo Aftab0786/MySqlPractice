@@ -1,0 +1,4 @@
+create database Brp;
+show databases;
+use Brp;
+drop database brp;
